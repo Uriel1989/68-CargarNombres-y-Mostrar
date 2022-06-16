@@ -1,0 +1,6 @@
+C:\Users\tauro\Desktop\PruebaParaPractica\PruebaParaPractica\bin\Debug\PruebaParaPractica.exe
+C:\Users\tauro\Desktop\PruebaParaPractica\PruebaParaPractica\bin\Debug\PruebaParaPractica.pdb
+C:\Users\tauro\Desktop\PruebaParaPractica\PruebaParaPractica\obj\Debug\PruebaParaPractica.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\PruebaParaPractica\PruebaParaPractica\obj\Debug\PruebaParaPractica.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\PruebaParaPractica\PruebaParaPractica\obj\Debug\PruebaParaPractica.exe
+C:\Users\tauro\Desktop\PruebaParaPractica\PruebaParaPractica\obj\Debug\PruebaParaPractica.pdb
